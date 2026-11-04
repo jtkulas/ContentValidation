@@ -7,4 +7,4 @@ Several possible projects orbiting idea of enhanced content validation protocols
 
 2. This can be extended to include classic sources of contamination (e.g., response biases):
 
-![](Venn.png)
+![](venn.png)
